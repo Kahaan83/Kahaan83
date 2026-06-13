@@ -2,7 +2,7 @@
 
 # Hi, I'm Kahaan 👋
 
-### CS + Economics @ Ahmedabad University · Embedded Systems · Data & Automation
+### Computer Science & Engineering @ Ahmedabad University · Embedded Systems · Data & Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Building+robots+that+balance+themselves;Turning+raw+trade%2Fsales+data+into+insight;Wearable+biomechanics+%26+sensor+fusion;Currently%3A+TA+for+Digital+Electronics+%26+Microprocessors" alt="Typing SVG" />
 
