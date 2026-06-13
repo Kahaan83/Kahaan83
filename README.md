@@ -16,8 +16,7 @@
 - 🧑‍🏫 Teaching Assistant for **Digital Electronics & Microprocessors (ENR107)**
 - 🔧 I like projects that sit at the intersection of **hardware, software, and data** — control systems, sensor fusion, and the pipelines that turn raw numbers into something useful
 - 📊 Currently building data-processing tools for the **Institute of Manufacturing and Economy (IME)**
-- 🥏 Compete in **Ultimate Frisbee** (Ridisculous) and **chess** (AIU West Zone)
-- 🥋 Black belt in Taekwondo
+
 
 ---
 
