@@ -2,7 +2,7 @@
 
 # Hi, I'm Kahaan 👋
 
-### Computer Science & Engineering @ Ahmedabad University · Embedded Systems · Data & Automation
+### CS + Economics @ Ahmedabad University · Embedded Systems · Data & Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Building+robots+that+balance+themselves;Turning+raw+trade%2Fsales+data+into+insight;Wearable+biomechanics+%26+sensor+fusion;Currently%3A+TA+for+Digital+Electronics+%26+Microprocessors" alt="Typing SVG" />
 
@@ -16,7 +16,8 @@
 - 🧑‍🏫 Teaching Assistant for **Digital Electronics & Microprocessors (ENR107)**
 - 🔧 I like projects that sit at the intersection of **hardware, software, and data** — control systems, sensor fusion, and the pipelines that turn raw numbers into something useful
 - 📊 Currently building data-processing tools for the **Institute of Manufacturing and Economy (IME)**
-
+- 🥏 Compete in **Ultimate Frisbee** (Ridisculous) and **chess** (AIU West Zone)
+- 🥋 Black belt in Taekwondo
 
 ---
 
@@ -65,7 +66,7 @@ Wearable glove that streams IMU + EMG + grip data over ESP-NOW at ~100 Hz and co
 <tr>
 <td width="50%" valign="top">
 
-**📈 [IME Data Processing](https://github.com/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy)**
+**📈 [IME Data Processing](https://github.com/Kahaan83/ime-data-pipeline)**
 A toolkit for the Institute of Manufacturing and Economy: combines CMIE company financial data, ranks top companies by sector and year, and maps India's HS-code trade data to ISIC/NIC manufacturing sectors with multi-year Excel reports.
 
 `Python` `pandas` `openpyxl` `Data Pipelines`
