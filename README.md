@@ -5,7 +5,7 @@
 **CS undergrad · Ahmedabad University**
 Building things that sit at the edge of hardware, software, and data.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E05A2B&center=true&vCenter=true&width=620&lines=Speed+reader+with+AI+recall+checks+%E2%80%94+Blaze+Reader;LLM+that+runs+100%25+in+your+browser+%E2%80%94+WebGPU;Wearable+glove+that+tracks+your+frisbee+throw;Robot+that+won+first+place+balancing+on+two+wheels;Currently+interning+%40+Institute+of+Manufacturing+%26+Economy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0FF71A&center=true&vCenter=true&width=620&lines=Speed+reader+with+AI+recall+checks+%E2%80%94+Blaze+Reader;LLM+that+runs+100%25+in+your+browser+%E2%80%94+WebGPU;Wearable+glove+that+tracks+your+frisbee+throw;Robot+that+won+first+place+balancing+on+two+wheels;Currently+interning+%40+Institute+of+Manufacturing+%26+Economy" alt="Typing SVG" />
 
 </div>
 
