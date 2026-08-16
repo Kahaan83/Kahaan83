@@ -29,56 +29,14 @@
 
 ### 🛠 Featured Projects
 
-<table>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/Self-Balancing-robot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=Self-Balancing-robot&theme=default&hide_border=true" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/Fitbit-air-dashboard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=Fitbit-air-dashboard&theme=default&hide_border=true" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/webgpu-llm-chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=webgpu-llm-chat&theme=default&hide_border=true" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/Biomechanical-throw-tracker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=Biomechanical-throw-tracker&theme=default&hide_border=true" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/Line-follower">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=Line-follower&theme=default&hide_border=true" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=Data-processing-for-Institute-of-manufacturing-and-economy&theme=default&hide_border=true" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/digital-cards">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=digital-cards&theme=default&hide_border=true" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/Kahaan83/escape-room-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahaan83&repo=escape-room-website&theme=default&hide_border=true" />
-    </a>
-  </td>
-</tr>
-</table>
+| Repo | Description | Stars | Top Language |
+|---|---|---|---|
+| [**Self-Balancing-robot**](https://github.com/Kahaan83/Self-Balancing-robot) | PID + Kalman-filter self-balancing robot — 🏆 1st place, university competition | ![stars](https://img.shields.io/github/stars/Kahaan83/Self-Balancing-robot?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/Self-Balancing-robot?style=flat-square&label=) |
+| [**Fitbit-air-dashboard**](https://github.com/Kahaan83/Fitbit-air-dashboard) | Full-stack health analytics app (Next.js + FastAPI) integrating Google Health API | ![stars](https://img.shields.io/github/stars/Kahaan83/Fitbit-air-dashboard?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/Fitbit-air-dashboard?style=flat-square&label=) |
+| [**webgpu-llm-chat**](https://github.com/Kahaan83/webgpu-llm-chat) | Browser-native private LLM chat running entirely client-side via WebGPU | ![stars](https://img.shields.io/github/stars/Kahaan83/webgpu-llm-chat?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/webgpu-llm-chat?style=flat-square&label=) |
+| [**Biomechanical-throw-tracker**](https://github.com/Kahaan83/Biomechanical-throw-tracker) | ESP32 + IMU + EMG glove for tracking throw biomechanics | ![stars](https://img.shields.io/github/stars/Kahaan83/Biomechanical-throw-tracker?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/Biomechanical-throw-tracker?style=flat-square&label=) |
+| [**Line-follower**](https://github.com/Kahaan83/Line-follower) | PID-based line-following robot, 5 IR sensors, 300rpm motors | ![stars](https://img.shields.io/github/stars/Kahaan83/Line-follower?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/Line-follower?style=flat-square&label=) |
+| [**Data-processing-for-Institute-of-manufacturing-and-economy**](https://github.com/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy) | Data pipeline built for IME's economic research work | ![stars](https://img.shields.io/github/stars/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy?style=flat-square&label=) | ![lang](https://img.shields.io/github/languages/top/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy?style=flat-square&label=) |
 
 ---
 
@@ -92,19 +50,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kahaan83&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahaan83&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kahaan83&theme=default&hide_border=true" />
-</p>
-
 <!--
-  Animated contribution snake — requires a one-time GitHub Actions setup.
-  See setup note at the bottom of this file / in the chat reply.
+  Generated daily by .github/workflows/profile-readme.yml (self-hosted, no
+  third-party rate limits). See setup steps in the chat reply.
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kahaan83/Kahaan83/main/metrics.svg" alt="GitHub metrics" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kahaan83/Kahaan83/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
