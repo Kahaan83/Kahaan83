@@ -1,121 +1,50 @@
-<div align="center">
+# Hi, I'm Kahaan 👋
 
-# Hey, I'm Kahaan 👋
+B.Tech CSE student @ Ahmedabad University — I build across embedded systems, full-stack apps, and applied AI.
 
-**CS undergrad · Ahmedabad University**
-Building things that sit at the edge of hardware, software, and data.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0FF71A&center=true&vCenter=true&width=620&lines=Speed+reader+with+AI+recall+checks+%E2%80%94+Blaze+Reader;LLM+that+runs+100%25+in+your+browser+%E2%80%94+WebGPU;Wearable+glove+that+tracks+your+frisbee+throw;Robot+that+won+first+place+balancing+on+two+wheels;Currently+interning+%40+Institute+of+Manufacturing+%26+Economy" alt="Typing SVG" />
-
-</div>
-
----
-
-### About
-
-- 🎓 **B.Tech Computer Science & Engineering** — Ahmedabad University
-- 🏢 Summer intern @ **Institute of Manufacturing & Economy (IME)** — building sector analysis tooling on CMIE Prowess data
-- 🥏 Compete in **Ultimate Frisbee** for university team *Ridisculous*
-- 🤸 Black belt in Taekwondo. Occasional badminton player.
-- 🔩 Hardware stack: ESP32 · Arduino · Raspberry Pi · BNO085 · ADS1115
+- 🎓 Studying Computer Science & Engineering at Ahmedabad University
+- 🔬 Interning at the **Institute of Manufacturing & Economy (IME)**, doing sector-level economic research on India's electrical equipment industry
+- 🚀 Currently building an NFC-enabled digital profile card startup (dual-market: India + international)
+- 🥋 Black belt in Taekwondo, competitive Ultimate Frisbee player for **Ridisculous**
+- ⚡ Fun fact: I've built two PID-controlled robots and a health analytics dashboard, in roughly that order of chaos
 
 ---
 
-### Tech Stack
+### 🛠 Featured Projects
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+| Project | What it does |
+|---|---|
+| [**Self-Balancing-robot**](https://github.com/Kahaan83/Self-Balancing-robot) | Self-balancing robot using PID control + Kalman filtering for real-time sensor fusion — 🏆 1st place, university competition |
+| [**Fitbit-air-dashboard**](https://github.com/Kahaan83/Fitbit-air-dashboard) | Full-stack health analytics app (Next.js + FastAPI) integrating Google Health API — derived HRV, ANS balance, sleep debt, recovery scores |
+| [**webgpu-llm-chat**](https://github.com/Kahaan83/webgpu-llm-chat) | Browser-native, private LLM chat running entirely client-side via WebGPU + Transformers.js |
+| [**Biomechanical-throw-tracker**](https://github.com/Kahaan83/Biomechanical-throw-tracker) | ESP32 + IMU + EMG glove for tracking throw biomechanics |
+| [**Line-follower**](https://github.com/Kahaan83/Line-follower) | PID-based line-following robot, 5 IR sensors, 300rpm motors |
+| [**Data-processing-for-Institute-of-manufacturing-and-economy**](https://github.com/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy) | Data pipeline built for IME's economic research work |
 
 ---
 
-### Featured Projects
+### 🧰 Tech I work with
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 [webgpu-llm-chat](https://github.com/Kahaan83/webgpu-llm-chat)
-A fully private, offline-capable AI chat interface. The language model runs entirely in the browser via **WebGPU + Transformers.js** — no server, no API key, no data transmission. Works on any machine with a WebGPU-capable GPU.
-
-`TypeScript` `WebGPU` `Transformers.js` `Vite` · [**Live →**](https://webgpu-llm-chat.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ [Blaze Reader](https://github.com/Kahaan83/Blaze-reader)
-A smart RSVP speed reader with **focal letter anchoring** and **AI-powered comprehension checks** (Claude Sonnet). Reads 2–3× faster than normal, pausing every 60 words to fire a generated MCQ. Single `.html` file, works offline for reading, live for AI.
-
-`HTML/CSS/JS` `Claude API` `PDF.js` · [**Live →**](https://blaze-reader-neon.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧤 [Biomechanical Throw Tracker](https://github.com/Kahaan83/Biomechanical-throw-tracker)
-Wearable glove that streams **IMU + EMG + grip force** at ~100 Hz via ESP-NOW and computes live throw metrics — release speed, spin rate, snap force, whip latency — visualized on a Three.js dashboard.
-
-`ESP32` `BNO085` `ADS1115` `ESP-NOW` `Three.js`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [Self-Balancing Robot](https://github.com/Kahaan83/Self-Balancing-robot)
-🥇 **1st place, University-wide Robotics Competition (2025)**
-Inverted-pendulum robot with a **Kalman filter** for IMU fusion and a tuned **PID loop** for real-time balance. Bluetooth-based live parameter tuning while running.
-
-`C++` `Arduino` `MPU6050` `PID` `Kalman Filter`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📇 [Digital Cards](https://github.com/Kahaan83/digital-cards)
-A custom **static-site generator** that compiles a JSON dataset into responsive digital profile pages with vCard export, brand theming, and MD5-based incremental builds — so only changed cards re-render.
-
-`Python` `SSG` `Automation` · [**Live →**](https://digital-cards-lemon.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 [IME Data Pipeline](https://github.com/Kahaan83/ime-data-pipeline)
-Internal tooling for the Institute of Manufacturing & Economy. Automates **NIC-code sector selection**, batch API queries against CMIE Prowess (SendBatch/GetBatch/GetReport), and ranks the top-10 companies by net sales per sector with multi-year Excel output.
-
-`Python` `pandas` `openpyxl` `CMIE Prowess API`
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kahaan83&show_icons=true&theme=default&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahaan83&layout=compact&theme=default&hide_border=true" />
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kahaan83&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kahaan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahaan83&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
 
 ---
 
-<div align="center">
+### 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahaan-shah-842095334/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahaanshah83@gmail.com)
-
-</div>
+<!-- Add your preferred contact links here, e.g. LinkedIn, email, portfolio -->
