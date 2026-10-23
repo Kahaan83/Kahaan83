@@ -49,7 +49,7 @@
 | [**Fitbit-air-dashboard**](https://github.com/Kahaan83/Fitbit-air-dashboard) | Full-stack health analytics (Next.js + FastAPI) on the Google Health API |
 | [**webgpu-llm-chat**](https://github.com/Kahaan83/webgpu-llm-chat) | Private LLM chat that runs entirely in the browser via WebGPU |
 | [**escape-room-website**](https://github.com/Kahaan83/escape-room-website) | Addams Family escape-room site, turned into a playable portfolio game |
-| [**Data-processing-for-IME**](https://github.com/Kahaan83/Data-processing-for-Institute-of-manufacturing-and-economy) | Data pipeline for IME's economic research |
+| [**ime-data-pipeline**](https://github.com/Kahaan83/ime-data-pipeline) | Data pipeline for IME's economic research |
 
 ---
 
